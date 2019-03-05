@@ -1,14 +1,3 @@
-;; The first three lines of this file were inserted by DrRacket. They record metadata
-;; about the language level of this file in a form that our tools can easily process.
-#reader(lib "htdp-intermediate-lambda-reader.ss" "lang")((modname fib) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #t)))
-;;
-;; *****************************************
-;; Izhaan Zubair (20758016)
-;; CS 135 Fall 2018
-;; Assignment 09, Question 2
-;; *****************************************
-;;
-
 ;; (fast-fib-counter n start val1 val2) consumes a number (n), a starting value,
 ;;   a number which is the Fibonacci number of n-1 and val2 which is the
 ;;     Fibonacci of n-2 and produces the Fibonacci for the input value
